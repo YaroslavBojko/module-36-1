@@ -1,0 +1,9 @@
+# ninja log v5
+12	784	7199512195867382	build.ninja	788bfc17364d5ab7
+2	269	0	CMakeFiles/module_36_1_autogen	e21d8407c197aa54
+2	269	0	module_36_1_autogen/mocs_compilation.cpp	e21d8407c197aa54
+2	269	0	C:/Users/yaros/CLionProjects/module 36.1/cmake-build-debug/CMakeFiles/module_36_1_autogen	e21d8407c197aa54
+2	269	0	C:/Users/yaros/CLionProjects/module 36.1/cmake-build-debug/module_36_1_autogen/mocs_compilation.cpp	e21d8407c197aa54
+282	451	7199512201133607	CMakeFiles/module_36_1.dir/module_36_1_autogen/mocs_compilation.cpp.obj	1dcce1aab412fc44
+270	1919	7199512215881674	CMakeFiles/module_36_1.dir/main.cpp.obj	11a289e8d9ed0546
+1922	2483	7199512218132515	module_36_1.exe	af0868618d4a75d8
