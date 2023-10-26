@@ -19,9 +19,6 @@ public:
     void setYellow();
     void setRed();
 
-public slots:
-    void setValue(int value);
-
 private:
     QPixmap mCurrentCircle;
     QPixmap mGreenCircle;
@@ -70,14 +67,6 @@ void Circle::setRed()
     update();
 }
 
-void Circle::setValue(int value)
-{
-    if(value <= 33) setGreen();
-    else if(value > 33 && value <= 66) setYellow();
-    else setRed();
-    update();
-}
-
 int main(int argc, char **argv)
 {
     QApplication app(argc, argv);
@@ -99,7 +88,13 @@ int main(int argc, char **argv)
     layout->addWidget(window);
     window->show();
 
-    QObject::connect(slider, &QSlider::valueChanged, circle, &Circle::setValue);
+    QObject::connect(slider, &QSlider::valueChanged, [slider,circle](int value)
+    {
+        if(value <= 33) circle->setGreen();
+        else if(value > 33 && value <= 66) circle->setYellow();
+        else circle->setRed();
+        circle->update();
+    });
 
     return app.exec();
 }
