@@ -5,6 +5,7 @@
 #include <iostream>
 #include <QPaintEvent>
 #include <QPainter>
+#include <QVBoxLayout>
 
 class Circle : public QWidget
 {
@@ -32,9 +33,9 @@ Circle::Circle(QWidget *parent)
 {
     setParent(parent);
     setSizePolicy(QSizePolicy::Fixed, QSizePolicy::Fixed);
-    mGreenCircle = QPixmap ("GreenCircle.png");
-    mYellowCircle = QPixmap ("YellowCircle.png");
-    mRedCircle = QPixmap ("RedCircle.png");
+    mGreenCircle = QPixmap ("C:\\Users\\yaros\\CLionProjects\\module 36.1\\GreenCircle.png");
+    mYellowCircle = QPixmap ("C:\\Users\\yaros\\CLionProjects\\module 36.1\\YellowCircle.png");
+    mRedCircle = QPixmap ("C:\\Users\\yaros\\CLionProjects\\module 36.1\\RedCircle.png");
 
     mCurrentCircle = mGreenCircle;
     setGeometry(mCurrentCircle.rect());
@@ -51,11 +52,56 @@ QSize Circle::minimumSizeHint() const
     return QSize(100,100);
 }
 
+void Circle::setGreen()
+{
+    mCurrentCircle = mGreenCircle;
+    update();
+}
+
+void Circle::setYellow()
+{
+    mCurrentCircle = mYellowCircle;
+    update();
+}
+
+void Circle::setRed()
+{
+    mCurrentCircle = mRedCircle;
+    update();
+}
+
+void Circle::setValue(int value)
+{
+    if(value <= 33) setGreen();
+    else if(value > 33 && value <= 66) setYellow();
+    else setRed();
+    update();
+}
+
 int main(int argc, char **argv)
 {
     QApplication app(argc, argv);
+    auto* window = new QWidget;
+    window->setFixedSize(240,290);
 
-    app.exec();
+    auto* circle = new Circle(window);
+    circle->setFixedSize(200,200);
+    circle->move(20,10);
+
+    auto* slider = new QSlider(Qt::Horizontal);
+    slider->setMinimum(0);
+    slider->setMaximum(100);
+    slider->resize(200, 50);
+    slider->move(20,230);
+    slider->setParent(window);
+
+    auto* layout = new QVBoxLayout(window);
+    layout->addWidget(window);
+    window->show();
+
+    QObject::connect(slider, &QSlider::valueChanged, circle, &Circle::setValue);
+
+    return app.exec();
 }
 
 #include <main.moc>
