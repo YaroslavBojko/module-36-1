@@ -69,7 +69,8 @@
 		"C:/Qt/Qt5.12.12/5.12.12/mingw73_64/lib/cmake/Qt5Widgets/Qt5Widgets_QWindowsVistaStylePlugin.cmake",
 		"C:/Qt/Qt5.12.12/5.12.12/mingw73_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake",
 		"C:/Qt/Qt5.12.12/5.12.12/mingw73_64/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake",
-		"C:/Program Files/JetBrains/CLion 2022.1.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeParseArguments.cmake"
+		"C:/Program Files/JetBrains/CLion 2022.1.1/bin/cmake/win/share/cmake-3.22/Modules/CMakeParseArguments.cmake",
+		"C:/Users/yaros/CLionProjects/module 36.1/path.qrc"
 	],
 	"CMAKE_SOURCE_DIR" : "C:/Users/yaros/CLionProjects/module 36.1",
 	"DEP_FILE" : "",

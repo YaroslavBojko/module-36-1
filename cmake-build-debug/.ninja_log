@@ -1,95 +1,21 @@
 # ninja log v5
-12	784	7199512195867382	build.ninja	788bfc17364d5ab7
-2	269	0	CMakeFiles/module_36_1_autogen	e21d8407c197aa54
-2	269	0	module_36_1_autogen/mocs_compilation.cpp	e21d8407c197aa54
-2	269	0	C:/Users/yaros/CLionProjects/module 36.1/cmake-build-debug/CMakeFiles/module_36_1_autogen	e21d8407c197aa54
-2	269	0	C:/Users/yaros/CLionProjects/module 36.1/cmake-build-debug/module_36_1_autogen/mocs_compilation.cpp	e21d8407c197aa54
+12	784	7201886942564133	build.ninja	788bfc17364d5ab7
+7	686	0	C:/Users/yaros/CLionProjects/module 36.1/cmake-build-debug/CMakeFiles/module_36_1_autogen	e21d8407c197aa54
+7	686	0	CMakeFiles/module_36_1_autogen	e21d8407c197aa54
+7	686	0	C:/Users/yaros/CLionProjects/module 36.1/cmake-build-debug/module_36_1_autogen/mocs_compilation.cpp	e21d8407c197aa54
+687	2233	7201886639004305	CMakeFiles/module_36_1.dir/main.cpp.obj	11a289e8d9ed0546
+7	686	0	module_36_1_autogen/mocs_compilation.cpp	e21d8407c197aa54
 282	451	7199512201133607	CMakeFiles/module_36_1.dir/module_36_1_autogen/mocs_compilation.cpp.obj	1dcce1aab412fc44
-270	1919	7199512215881674	CMakeFiles/module_36_1.dir/main.cpp.obj	11a289e8d9ed0546
-1922	2483	7199512218132515	module_36_1.exe	af0868618d4a75d8
-8	655	0	CMakeFiles/module_36_1_autogen	e21d8407c197aa54
-8	655	0	module_36_1_autogen/mocs_compilation.cpp	e21d8407c197aa54
-8	655	0	C:/Users/yaros/CLionProjects/module 36.1/cmake-build-debug/CMakeFiles/module_36_1_autogen	e21d8407c197aa54
-8	655	0	C:/Users/yaros/CLionProjects/module 36.1/cmake-build-debug/module_36_1_autogen/mocs_compilation.cpp	e21d8407c197aa54
-656	2281	7199515104984817	CMakeFiles/module_36_1.dir/main.cpp.obj	11a289e8d9ed0546
-2282	3004	7199515108316513	module_36_1.exe	af0868618d4a75d8
-9	802	0	CMakeFiles/module_36_1_autogen	e21d8407c197aa54
-9	802	0	module_36_1_autogen/mocs_compilation.cpp	e21d8407c197aa54
-9	802	0	C:/Users/yaros/CLionProjects/module 36.1/cmake-build-debug/CMakeFiles/module_36_1_autogen	e21d8407c197aa54
-9	802	0	C:/Users/yaros/CLionProjects/module 36.1/cmake-build-debug/module_36_1_autogen/mocs_compilation.cpp	e21d8407c197aa54
-803	2599	7200418116225962	CMakeFiles/module_36_1.dir/main.cpp.obj	11a289e8d9ed0546
-2600	3268	7200418119328412	module_36_1.exe	af0868618d4a75d8
-7	87	0	CMakeFiles/module_36_1_autogen	e21d8407c197aa54
-7	87	0	module_36_1_autogen/mocs_compilation.cpp	e21d8407c197aa54
-7	87	0	C:/Users/yaros/CLionProjects/module 36.1/cmake-build-debug/CMakeFiles/module_36_1_autogen	e21d8407c197aa54
-7	87	0	C:/Users/yaros/CLionProjects/module 36.1/cmake-build-debug/module_36_1_autogen/mocs_compilation.cpp	e21d8407c197aa54
-9	854	0	CMakeFiles/module_36_1_autogen	e21d8407c197aa54
-9	854	0	module_36_1_autogen/mocs_compilation.cpp	e21d8407c197aa54
-9	854	0	C:/Users/yaros/CLionProjects/module 36.1/cmake-build-debug/CMakeFiles/module_36_1_autogen	e21d8407c197aa54
-9	854	0	C:/Users/yaros/CLionProjects/module 36.1/cmake-build-debug/module_36_1_autogen/mocs_compilation.cpp	e21d8407c197aa54
-855	2590	7200419701585805	CMakeFiles/module_36_1.dir/main.cpp.obj	11a289e8d9ed0546
-2591	3201	7200419704314938	module_36_1.exe	af0868618d4a75d8
-7	628	0	CMakeFiles/module_36_1_autogen	e21d8407c197aa54
-7	628	0	module_36_1_autogen/mocs_compilation.cpp	e21d8407c197aa54
-7	628	0	C:/Users/yaros/CLionProjects/module 36.1/cmake-build-debug/CMakeFiles/module_36_1_autogen	e21d8407c197aa54
-7	628	0	C:/Users/yaros/CLionProjects/module 36.1/cmake-build-debug/module_36_1_autogen/mocs_compilation.cpp	e21d8407c197aa54
-629	2078	7200420464116900	CMakeFiles/module_36_1.dir/main.cpp.obj	11a289e8d9ed0546
-2079	2701	7200420466972285	module_36_1.exe	af0868618d4a75d8
-8	629	0	CMakeFiles/module_36_1_autogen	e21d8407c197aa54
-8	629	0	module_36_1_autogen/mocs_compilation.cpp	e21d8407c197aa54
-8	629	0	C:/Users/yaros/CLionProjects/module 36.1/cmake-build-debug/CMakeFiles/module_36_1_autogen	e21d8407c197aa54
-8	629	0	C:/Users/yaros/CLionProjects/module 36.1/cmake-build-debug/module_36_1_autogen/mocs_compilation.cpp	e21d8407c197aa54
-631	2121	7200425030146114	CMakeFiles/module_36_1.dir/main.cpp.obj	11a289e8d9ed0546
-2122	2723	7200425032725805	module_36_1.exe	af0868618d4a75d8
-8	665	0	CMakeFiles/module_36_1_autogen	e21d8407c197aa54
-8	665	0	module_36_1_autogen/mocs_compilation.cpp	e21d8407c197aa54
-8	665	0	C:/Users/yaros/CLionProjects/module 36.1/cmake-build-debug/CMakeFiles/module_36_1_autogen	e21d8407c197aa54
-8	665	0	C:/Users/yaros/CLionProjects/module 36.1/cmake-build-debug/module_36_1_autogen/mocs_compilation.cpp	e21d8407c197aa54
-666	2153	7200432130480085	CMakeFiles/module_36_1.dir/main.cpp.obj	11a289e8d9ed0546
-2153	2801	7200432133097226	module_36_1.exe	af0868618d4a75d8
-7	654	0	CMakeFiles/module_36_1_autogen	e21d8407c197aa54
-7	654	0	module_36_1_autogen/mocs_compilation.cpp	e21d8407c197aa54
-7	654	0	C:/Users/yaros/CLionProjects/module 36.1/cmake-build-debug/CMakeFiles/module_36_1_autogen	e21d8407c197aa54
-7	654	0	C:/Users/yaros/CLionProjects/module 36.1/cmake-build-debug/module_36_1_autogen/mocs_compilation.cpp	e21d8407c197aa54
-656	2118	7200432552552446	CMakeFiles/module_36_1.dir/main.cpp.obj	11a289e8d9ed0546
-6	706	0	CMakeFiles/module_36_1_autogen	e21d8407c197aa54
-6	706	0	module_36_1_autogen/mocs_compilation.cpp	e21d8407c197aa54
-6	706	0	C:/Users/yaros/CLionProjects/module 36.1/cmake-build-debug/CMakeFiles/module_36_1_autogen	e21d8407c197aa54
-6	706	0	C:/Users/yaros/CLionProjects/module 36.1/cmake-build-debug/module_36_1_autogen/mocs_compilation.cpp	e21d8407c197aa54
-707	2209	7200432959992783	CMakeFiles/module_36_1.dir/main.cpp.obj	11a289e8d9ed0546
-2210	2847	7200432962514900	module_36_1.exe	af0868618d4a75d8
-7	597	0	CMakeFiles/module_36_1_autogen	e21d8407c197aa54
-7	597	0	module_36_1_autogen/mocs_compilation.cpp	e21d8407c197aa54
-7	597	0	C:/Users/yaros/CLionProjects/module 36.1/cmake-build-debug/CMakeFiles/module_36_1_autogen	e21d8407c197aa54
-7	597	0	C:/Users/yaros/CLionProjects/module 36.1/cmake-build-debug/module_36_1_autogen/mocs_compilation.cpp	e21d8407c197aa54
-599	2043	7200433341731655	CMakeFiles/module_36_1.dir/main.cpp.obj	11a289e8d9ed0546
-7	613	0	CMakeFiles/module_36_1_autogen	e21d8407c197aa54
-7	613	0	module_36_1_autogen/mocs_compilation.cpp	e21d8407c197aa54
-7	613	0	C:/Users/yaros/CLionProjects/module 36.1/cmake-build-debug/CMakeFiles/module_36_1_autogen	e21d8407c197aa54
-7	613	0	C:/Users/yaros/CLionProjects/module 36.1/cmake-build-debug/module_36_1_autogen/mocs_compilation.cpp	e21d8407c197aa54
-614	2071	7200434185826703	CMakeFiles/module_36_1.dir/main.cpp.obj	11a289e8d9ed0546
-2071	2679	7200434188325546	module_36_1.exe	af0868618d4a75d8
-6	602	0	CMakeFiles/module_36_1_autogen	e21d8407c197aa54
-6	602	0	module_36_1_autogen/mocs_compilation.cpp	e21d8407c197aa54
-6	602	0	C:/Users/yaros/CLionProjects/module 36.1/cmake-build-debug/CMakeFiles/module_36_1_autogen	e21d8407c197aa54
-6	602	0	C:/Users/yaros/CLionProjects/module 36.1/cmake-build-debug/module_36_1_autogen/mocs_compilation.cpp	e21d8407c197aa54
-604	2039	7200434985773359	CMakeFiles/module_36_1.dir/main.cpp.obj	11a289e8d9ed0546
-2039	2636	7200434988245156	module_36_1.exe	af0868618d4a75d8
-7	653	0	CMakeFiles/module_36_1_autogen	e21d8407c197aa54
-7	653	0	module_36_1_autogen/mocs_compilation.cpp	e21d8407c197aa54
-7	653	0	C:/Users/yaros/CLionProjects/module 36.1/cmake-build-debug/CMakeFiles/module_36_1_autogen	e21d8407c197aa54
-7	653	0	C:/Users/yaros/CLionProjects/module 36.1/cmake-build-debug/module_36_1_autogen/mocs_compilation.cpp	e21d8407c197aa54
-655	2115	7200435819777117	CMakeFiles/module_36_1.dir/main.cpp.obj	11a289e8d9ed0546
-2116	2726	7200435822318807	module_36_1.exe	af0868618d4a75d8
-7	629	0	CMakeFiles/module_36_1_autogen	e21d8407c197aa54
-7	629	0	module_36_1_autogen/mocs_compilation.cpp	e21d8407c197aa54
-7	629	0	C:/Users/yaros/CLionProjects/module 36.1/cmake-build-debug/CMakeFiles/module_36_1_autogen	e21d8407c197aa54
-7	629	0	C:/Users/yaros/CLionProjects/module 36.1/cmake-build-debug/module_36_1_autogen/mocs_compilation.cpp	e21d8407c197aa54
-630	2103	7200436315309567	CMakeFiles/module_36_1.dir/main.cpp.obj	11a289e8d9ed0546
-2104	2720	7200436318013900	module_36_1.exe	af0868618d4a75d8
-6	627	0	CMakeFiles/module_36_1_autogen	e21d8407c197aa54
-6	627	0	module_36_1_autogen/mocs_compilation.cpp	e21d8407c197aa54
-6	627	0	C:/Users/yaros/CLionProjects/module 36.1/cmake-build-debug/CMakeFiles/module_36_1_autogen	e21d8407c197aa54
-6	627	0	C:/Users/yaros/CLionProjects/module 36.1/cmake-build-debug/module_36_1_autogen/mocs_compilation.cpp	e21d8407c197aa54
-628	2084	7200436458257623	CMakeFiles/module_36_1.dir/main.cpp.obj	11a289e8d9ed0546
-2085	2733	7200436460896552	module_36_1.exe	af0868618d4a75d8
+2234	3047	7201886642005748	module_36_1.exe	af0868618d4a75d8
+14	102	0	CMakeFiles/module_36_1_autogen	e21d8407c197aa54
+14	102	0	module_36_1_autogen/mocs_compilation.cpp	e21d8407c197aa54
+14	102	0	C:/Users/yaros/CLionProjects/module 36.1/cmake-build-debug/CMakeFiles/module_36_1_autogen	e21d8407c197aa54
+14	102	0	C:/Users/yaros/CLionProjects/module 36.1/cmake-build-debug/module_36_1_autogen/mocs_compilation.cpp	e21d8407c197aa54
+103	245	7201887048539488	module_36_1_autogen/EWIEGA46WW/qrc_path.cpp	e0b7c29cc64af833
+103	245	7201887048539488	C:/Users/yaros/CLionProjects/module 36.1/cmake-build-debug/module_36_1_autogen/EWIEGA46WW/qrc_path.cpp	e0b7c29cc64af833
+245	572	7201887051882226	CMakeFiles/module_36_1.dir/module_36_1_autogen/EWIEGA46WW/qrc_path.cpp.obj	989a1bfd9bb39d32
+573	1549	7201887056063748	module_36_1.exe	b4ff6fc45aaceb35
+11	113	0	CMakeFiles/module_36_1_autogen	e21d8407c197aa54
+11	113	0	module_36_1_autogen/mocs_compilation.cpp	e21d8407c197aa54
+11	113	0	C:/Users/yaros/CLionProjects/module 36.1/cmake-build-debug/CMakeFiles/module_36_1_autogen	e21d8407c197aa54
+11	113	0	C:/Users/yaros/CLionProjects/module 36.1/cmake-build-debug/module_36_1_autogen/mocs_compilation.cpp	e21d8407c197aa54
